@@ -4,7 +4,7 @@
 function Footer() {
     return (
         <footer className="footer">
-            © Treatment Resistant Depression
+            © 2025 My Portfolio
         </footer>
     );
 }

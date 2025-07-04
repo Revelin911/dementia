@@ -5,23 +5,23 @@ import { Link } from 'react-router-dom'
 const Header = () => {
     return (
         <header>
-            <h1>Treatment Resistant Depression</h1>
+            <h1>Treatment Resistent Depression</h1>
             <nav>
                 <ul>
                     <li>
                         <Link to="/">Home</Link>
                     </li>
                     <li>
-                        <Link to="/about">About Our Story</Link>
+                        <Link to="/about">About Me</Link>
                         </li>
                     <li>
-                        <Link to="/projects">Services</Link>
+                        <Link to="/projects">Portfolio</Link>
                         </li>
                         <li>
                             <Link to="/contact">Contact</Link>
                             </li>
                     <li>
-                        <Link to="/resume">Schedule</Link>
+                        <Link to="/resume">Resume</Link>
                         </li>
                 </ul>
             </nav>
