@@ -1,4 +1,4 @@
-import './AboutMe.jsx';
+import './About.jsx';
 // import { FaUserCircle } from 'react-icons/fa';
 // import { useState } from 'react';
 
