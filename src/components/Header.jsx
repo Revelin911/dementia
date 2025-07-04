@@ -1,5 +1,5 @@
 //appears on multiple pages
-// import { useState } from 'react';
+
 import { Link } from 'react-router-dom'
 
 const Header = () => {
@@ -12,17 +12,24 @@ const Header = () => {
                         <Link to="/">Home</Link>
                     </li>
                     <li>
-                        <Link to="/about">About Me</Link>
+                        <Link to="/about">About Us</Link>
                         </li>
                     <li>
-                        <Link to="/projects">Portfolio</Link>
+                        <Link to="/services">Services</Link>
                         </li>
                         <li>
-                            <Link to="/contact">Contact</Link>
-                            </li>
-                    <li>
-                        <Link to="/resume">Resume</Link>
+                        <Link to="/tms">TMS</Link>
                         </li>
+                        <li>
+                            <Link to="/ketamine">Ketamine</Link>
+                        </li>
+                        <li>
+                            <Link to="psilocybin">Psilocybin</Link>
+                        </li>
+                        <li>
+                            <Link to="/contact">Contact Us</Link>
+                            </li>
+                    
                 </ul>
             </nav>
         </header>

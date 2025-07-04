@@ -4,7 +4,7 @@
 function Footer() {
     return (
         <footer className="footer">
-            © 2025 My Portfolio
+            © 2025 Zenith Mental Health
         </footer>
     );
 }

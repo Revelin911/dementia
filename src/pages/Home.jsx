@@ -3,7 +3,7 @@
 
 function Home() {
     return (
-        <div>Hit HomePage Route</div>
+        <div></div>
     )
 }
 
