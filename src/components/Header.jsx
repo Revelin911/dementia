@@ -1,5 +1,5 @@
 //appears on multiple pages
-
+ 
 import { Link } from 'react-router-dom'
 
 const Header = () => {
@@ -20,9 +20,9 @@ const Header = () => {
                         <li>
                         <Link to="/tms">TMS</Link>
                         </li>
-                        <li>
+                        {/* <li>
                             <Link to="/ketamine">Ketamine</Link>
-                        </li>
+                        </li> */}
                         <li>
                             <Link to="psilocybin">Psilocybin</Link>
                         </li>
