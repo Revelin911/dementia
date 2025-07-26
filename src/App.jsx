@@ -6,9 +6,11 @@ import Header from './components/Header'
 
 const App = () => {
   return (
-      <div>
+      <div className='app-background text-light'>
           <Header />
-          <Outlet />
+          <main className='container py-4'>
+            <Outlet />
+        </main>
       </div>
   );
 };

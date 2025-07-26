@@ -106,7 +106,7 @@ function Home() {
                             <img
                             src="imageplacement"
                             className="img-fluid rounded shadow-sm"
-                            alt="image"
+                            alt="image goes here"
                             />
                             <p className="small mt-2 text-muted">
                                 <em>CEO: Silas - Provider</em>
