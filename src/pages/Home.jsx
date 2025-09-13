@@ -27,6 +27,9 @@ function Home() {
                             <li className="nav-item">
                                 <a className="nav-link text-muted" href="#">TMS</a>
                             </li>
+                             <li className="nav-item">
+                                <a className="nav-link text-muted" href="#">Ketamine</a>
+                            </li>
                             <li className="nav-item">
                                 <a className="nav-link text-muted" href="#">Psilocybin</a>
                             </li>
