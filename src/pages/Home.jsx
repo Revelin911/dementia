@@ -116,7 +116,7 @@ function Home() {
                 </div>
 
                 {/* Footer section*/}
-                <div
+                {/* <div
                 <nav className="navbar navbar-expand-lg navbar-light bg-light border-bottom">
                 <div className="container">
                     <a className="navbar-brand text-dark fw-bold" href="#"> Look at our schedule! </a>
@@ -134,7 +134,7 @@ function Home() {
                                 <a className="nav-link text-muted" href="#">About</a>
                             </li>
                             </nav>
-                            </div>
+                            </div> */}
             </div>
     );
 };
