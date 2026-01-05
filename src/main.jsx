@@ -9,7 +9,7 @@ import Home from './pages/Home.jsx';
 // import TMS from './pages/Tms.jsx';
 // import Ketamine from './pages/Ketamine.jsx';
 // import Psilocybin from './pages/Psilocybin.jsx'
-// import Contact from './pages/Contact.jsx';
+import Contact from './pages/Contact.jsx';
 import Error from './pages/Error.jsx'
 //import Header from './components/Header.jsx';
 
@@ -44,10 +44,10 @@ const router = createBrowserRouter([
       //   path: '/psilocybin',
       //   element: <Psilocybin />,
       // },
-      // {
-      //   path: '/contact',
-      //   element: <Contact />,
-      // },
+      {
+        path: '/contact',
+        element: <Contact />,
+      },
     ]
   }
 ])

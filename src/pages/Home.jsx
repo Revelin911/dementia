@@ -19,22 +19,22 @@ function Home() {
                     <div className="collapse navbar-collapse" id="navbarNav">
                         <ul className="navbar-nav ms-auto">
                             <li className="nav-item">
-                                <a className="nav-link text-muted" href="#">About</a>
+                                <a className="nav-link text-muted" href="/about">About</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link text-muted" href="#">Services</a>
+                                <a className="nav-link text-muted" href="/services">Services</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link text-muted" href="#">TMS</a>
+                                <a className="nav-link text-muted" href="/tms">TMS</a>
                             </li>
                              <li className="nav-item">
-                                <a className="nav-link text-muted" href="#">Ketamine</a>
+                                <a className="nav-link text-muted" href="/ketamine">Ketamine</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link text-muted" href="#">Psilocybin</a>
+                                <a className="nav-link text-muted" href="/psilocybin">Psilocybin</a>
                             </li>
                             <li className="nav-item">
-                                <a className="nav-link text-muted" href="#">Contact Us</a>
+                                <a className="nav-link text-muted" href="/contact">Contact Us</a>
                             </li>
                         </ul>
                     </div>
